@@ -9,9 +9,7 @@ You can build this using the tools that you have already learned, and there are 
 
 We’ll walk you through the basic steps, but it will be up to you to implement them.
 
-## Assignment
-
-# Etch-A-Sketch Project
+## Project assignment
 
 <ol>
 <li>Create a webpage with a 16x16 grid of square divs.</li>
